@@ -1,4 +1,4 @@
-# BHG-Nifty-Project
+# Nifty Project management
 
 This project play important role in the entire nifty project.
 Here, you can suggest your idea as a project proposal or outside project.
